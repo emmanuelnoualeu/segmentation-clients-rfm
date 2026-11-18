@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Données brutes (45 Mo) : récupérées par src/telecharger_donnees.py
+data/online_retail.csv

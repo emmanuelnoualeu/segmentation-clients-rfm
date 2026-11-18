@@ -1,0 +1,9 @@
+segment,clients,recence_mediane,commandes_moy,ca,panier_client_median,part_clients_pct,part_ca_pct
+Champions,1117,10.0,10.0,5777452.0,2218.6,25.8,66.1
+Clients fidèles,329,46.0,5.6,776479.4,1592.1,7.6,8.9
+Fidèles en devenir,481,17.0,2.0,493172.0,510.7,11.1,5.6
+Nouveaux clients,136,18.0,1.0,42197.7,227.2,3.1,0.5
+À surveiller,537,52.0,1.6,319621.3,396.3,12.4,3.7
+À risque,657,131.0,3.4,812639.5,724.8,15.2,9.3
+En hibernation,408,113.0,1.2,201131.4,322.9,9.4,2.3
+Perdus,669,274.0,1.1,314534.4,247.4,15.4,3.6
