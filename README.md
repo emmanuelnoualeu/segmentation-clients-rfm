@@ -1,5 +1,14 @@
 # Segmentation clients RFM : à qui parler, et avec quel message ?
 
+> **English summary**
+>
+> - **Problem:** a UK online gift wholesaler sends the same campaigns to its 4,300 customers. Which ones should it retain, win back or let go?
+> - **Data:** 541,909 real invoice lines (December 2010 to December 2011), public UCI "Online Retail" dataset.
+> - **Method:** documented cleaning, RFM scores (Recency, Frequency, Monetary) in quintiles, 8 action segments, monthly cohort retention, Pareto curve (Python, pandas, matplotlib).
+> - **Result:** 26% of customers generate 66% of revenue. 657 at-risk customers worth £813k are drifting away. Fewer than 1 in 4 new customers comes back the following month.
+>
+> *The detailed write-up below is in French. Code, figures and results are language-independent.*
+
 **Python (pandas, matplotlib) · RFM · analyse de cohortes · courbe de Pareto**
 
 > - **Le problème :** un grossiste en ligne d'articles cadeaux (Royaume-Uni) envoie les mêmes campagnes à ses 4 300 clients. Lesquels faut-il fidéliser, relancer ou laisser partir ?
